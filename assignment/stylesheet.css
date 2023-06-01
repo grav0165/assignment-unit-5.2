@@ -1,9 +1,16 @@
 body {
-    background-color: aqua;
+    background-image: url("record.png");
+    background-repeat:repeat;
+    margin: 0;
 }
 
 header {
     background-color: darkolivegreen;
     color:gold;
     text-align:center;
+}
+
+main {
+    background-color: lightgrey;
+    margin: 1em;
 }
