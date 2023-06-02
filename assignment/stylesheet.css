@@ -4,13 +4,13 @@ body {
     margin: 0;
 }
 
-header {
+.Opener {
     background-color: darkolivegreen;
     color:gold;
     text-align:center;
 }
 
-main {
+.Page {
     background-color: lightgrey;
     margin: 1em;
 }
